@@ -1,5 +1,4 @@
-# sqflite_crud_operations
-
+# Sqlite Crud Operations
 
 - In this project, there are two separate crud processes in order to show the user a system that can keep, update and delete data locally, and to show how the existing crud processes are.
 - These operations are divided into two as local database registered and local databaseless.
